@@ -1,0 +1,17 @@
+{
+  "name": "file-restriction-system",
+  "version": "1.0.0",
+  "description": "A system to restrict file transfer outside a specific root folder.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "fs-extra": "^10.1.0",
+    "path": "^0.12.7"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
